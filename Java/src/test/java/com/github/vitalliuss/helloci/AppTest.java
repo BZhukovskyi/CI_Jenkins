@@ -31,9 +31,4 @@ public class AppTest {
 	public void testAnotherMethod() {
 		App.doNothing();
 	}
-	
-	@Test
-	public void testAnotherClass() {
-		EmptyClass.emptyMethod();
-	}
 }
